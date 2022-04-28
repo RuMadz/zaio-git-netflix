@@ -267,7 +267,7 @@ body {
 
 /* banner wrap section */
 .banner-wrap{
-    background-image: url(/netflix/assets/realnetflixbg.png);
+    background-image: url(/assets/realnetflixbg.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
